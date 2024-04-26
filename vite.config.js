@@ -1,6 +1,6 @@
 import { resolve } from 'node:path'
 
-// vite.config.js
+vite.config.js
 export default {
     server: {
         port: 5173
